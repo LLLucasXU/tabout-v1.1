@@ -91,4 +91,11 @@ MIT
 
 ---
 
-Built by [Zara](https://x.com/zarazhangrui)
+## Credits
+
+Original Tab Out was built by [Zara](https://x.com/zarazhangrui).
+
+This v1.1 version was modified by Lucas to adjust the product logic:
+- Tab Out opens from the extension icon instead of replacing Chrome's new tab page
+- Chrome's native `+` new tab behavior is preserved
+- Each Chrome window keeps at most one Tab Out dashboard, and repeated icon clicks focus the existing dashboard
